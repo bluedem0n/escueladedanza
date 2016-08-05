@@ -1,0 +1,82 @@
+/* IMAGEN*/
+.nosotros {
+	background-image: url("../img/dance_7.jpg");
+	background-size: cover;
+	height: 450px;
+}
+.negro{
+	background-color: black;
+	opacity: 0.5;
+	width: 60%;
+	padding: 50px 20px;
+	position: relative;
+	top: 130px;
+	left: 20%;
+}
+/*SECTION DOS*/
+.dos{
+	background-image: url(../img/tile2.png);
+    padding: 62px 17px;
+    height: 335px;
+    text-align: center;
+    clear: both;
+}
+.pilares{
+	padding: 0px 3%;
+}
+.pilar {
+	color: #A4A4A4;
+	font-size: 25px;
+	padding-bottom: 20PX;
+	border-bottom: 1px solid #A4A4A4;
+}
+.pilares p{
+	color: #585858;
+	padding-top: 10%;
+}
+/*SECTION TRES*/
+.tres{
+	padding-left: 80px;
+}
+.titulo{
+	text-align: center;
+	font-size: 30px;
+	padding: 100px 0px 80px 0px;
+}
+.profesores{
+	background-size: cover;
+	width: 90%;
+	height: 170px;
+}
+.profe1{
+	background-image: url(../img/profesor_4.jpg);
+}
+.profe2{
+	background-image: url(../img/profesor_14.jpg);
+}
+.profe3{
+	background-image: url(../img/profesor_1.jpg);
+}
+.profe4{
+	background-image: url(../img/profesor_10.jpg);
+}
+.profe5{
+	background-image: url(../img/profesor_11.jpg);
+}
+.profe6{
+	background-image: url(../img/profesor_12.jpg);
+}
+.profe7{
+	background-image: url(../img/profesor_9.jpg);
+}
+.profe8{
+	background-image: url(../img/profesor_15.jpg);
+}
+.tres h4{
+	padding: 20px 0px;
+}
+.tres p{
+	padding-bottom: 100px;
+	color: #848484;
+}
+

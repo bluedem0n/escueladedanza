@@ -1,0 +1,48 @@
+
+h5 {
+   color:#A4A4A4;
+}
+button {
+	padding: 15px 80px;
+    border-radius: 5px;
+    border: 1px solid #192951;
+    background-color: #192951;
+}
+button a {
+	color:white;
+	text-decoration: none;
+}
+.big-container {
+	background-color: #F8F3F3;
+}
+.caja {
+	background-color: #D8D8D8;
+	padding:30px 60px;
+}
+
+.contenedor-ancho{
+	padding:5%;
+}
+
+.img-b1 {
+	background-image: url("../img/blog1.jpg");
+    background-repeat: no-repeat;
+    width: 213px;
+    height: 310px;
+    background-size: 213px 301px;
+
+}
+.img-b2 {
+	background-image: url("../img/profesor_5.jpg");
+	background-repeat: no-repeat;
+	width: 213px;
+    height: 310px;
+    background-size: 213px 301px;
+}
+.img-b3 {
+	background-image: url("../img/instructor_1.jpg");
+	background-repeat: no-repeat;
+	width: 213px;
+    height: 310px;
+    background-size: 213px 301px;
+}

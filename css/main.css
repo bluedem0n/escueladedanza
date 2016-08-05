@@ -1,0 +1,86 @@
+.banner{
+	background-image: url(../img/dance_1.jpg);
+}
+.studio{
+	font-size: 70px;
+	color: #C3C6C5;
+	padding: 100px 0px 0px 90px;
+	margin: 0px;
+}
+/* BOTONES */
+.button{
+	display: inline-block;
+	border-radius: 5px;
+	background-color: #192951;
+	text-align: center;
+	color: white;
+}
+.inscribete{
+	padding: 15px 46px;
+    margin-left: 28%;
+	background-color: #040E1D;
+}
+.button-clases{
+	padding:18px 100px;
+	
+}
+.button-instructores{
+	padding: 19px 210px;
+    position: absolute;
+    left: 408px;
+    bottom: 1px;
+}
+
+/* IMAGENES */
+.background-gray{
+	background-image: url("../img/textura_2.jpg");
+	text-align: center;
+	height: 400px;
+}
+.instructor{
+	background-image: url("../img/instructor_4.jpg");
+	width: 50%;
+    background-repeat: no-repeat;
+	height: 345px;
+	margin: 0;
+	border: 1px solid #192951;
+	background-size: 100%;
+}
+.instructora{
+	background-image: url("../img/profesor_9.jpg");
+	width: 50%;
+    background-repeat: no-repeat;
+	height: 345px;
+	margin: 0;
+	border: 1px solid #192951;
+	background-size: 100%;
+}
+.section-4{
+	background-image: url("../img/textura_2.jpg");
+	text-align: center;
+	height: 280px;
+}
+
+.decoration-style{
+	width: 110px;
+	padding: 10px 0px 30px 0px;
+}
+
+.mapa{
+	margin-top: 40px;
+	width: 500px;
+	height: 300px;
+
+}
+.fondo-azul{
+	background-color: #192951;
+	color: white;
+	height: 390px;
+}
+.parrafo-fa{
+	margin: 5px 0px;
+}
+.titulo-fa{
+	margin-top: 45px;
+	margin-bottom: 0px;
+}
